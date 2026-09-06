@@ -42,7 +42,7 @@ This engine simulates a real-world scenario where a low-frequency target signal 
 
 Running the benchmark generates time-domain waveforms illustrating the trade-off between the delayed linear output of the FIR filter and the computationally efficient output of the IIR filter:
 
-![Filter Comparison](docs/filter_comparison.PNG)
+![Filter Comparison](docs/filter_comparison.png)
 
 ---
 
